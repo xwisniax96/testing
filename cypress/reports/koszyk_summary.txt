@@ -1,0 +1,9 @@
+Added product: https://work.nana.com.pl/p/leskov-metalowy-brelok-93370-128
+Added product: https://work.nana.com.pl/p/quack-gadzet-antystresowy-w-ksztalcie-kaczki-npc-10458311
+No button 'Add to cart' for: https://work.nana.com.pl/p/antystres-okragly-cool-npc-10210011
+Added product: https://work.nana.com.pl/p/reds-antystres-98059-105
+Added product: https://work.nana.com.pl/p/zabawka-push-bubble-pop-it-zielony-93146-09
+
+Products added: 4
+Products skipped: 1
+All products checked: 5
